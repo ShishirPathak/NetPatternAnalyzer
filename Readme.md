@@ -1,4 +1,4 @@
-# This repository was created as a requirement of CIS 542 (Fall 2023); at UMass Dartmouth.
+# This repository was created as a requirement of CIS 542 (Fall 2023) at UMass Dartmouth.
 
 # NetPatternAnalyzer
 
